@@ -2,9 +2,15 @@
 /shelf/
 /workspace.xml
 # Rider ignored files
+<<<<<<< HEAD
 /contentModel.xml
 /projectSettingsUpdater.xml
 /modules.xml
+=======
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+>>>>>>> origin/main
 /.idea.Dyrevaernet.iml
 # Editor-based HTTP Client requests
 /httpRequests/

@@ -23,4 +23,10 @@ app.MapStaticAssets();
 app.MapRazorPages()
     .WithStaticAssets();
 
+<<<<<<< HEAD
 app.Run();
+=======
+app.Run();
+
+test 
+>>>>>>> origin/main
